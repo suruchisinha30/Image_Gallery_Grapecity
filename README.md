@@ -14,3 +14,23 @@ Here the user gets an option to choose either of the format to export: </br>
 
 Again, we need to choose the format and preferred location and click ok. </br>
 The image gets downloaded in the file system. </br>
+
+
+<b>Screenshots </b></br>
+1. Output Screen 1 : </br>
+![1](https://user-images.githubusercontent.com/55443821/124425234-e8241600-dd85-11eb-8696-d516fee3e0e9.png) </br>
+
+2. Output Screen 2 : </br>
+
+
+
+3. Selecting an Image : </br>
+
+
+
+4. Exporting to PDF : </br>
+
+
+
+5. Exporting to jpeg / Bmp / Gif : </br>
+
