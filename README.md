@@ -39,6 +39,7 @@ The image gets downloaded in the file system. </br>
 
 5. Exporting to jpeg / Bmp / Gif : </br>
 
+![5](https://user-images.githubusercontent.com/55443821/124425301-fa9e4f80-dd85-11eb-9597-a01013550b03.png) </br>
 
 
 
