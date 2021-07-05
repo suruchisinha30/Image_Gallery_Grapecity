@@ -21,6 +21,7 @@ The image gets downloaded in the file system. </br>
 ![1](https://user-images.githubusercontent.com/55443821/124425234-e8241600-dd85-11eb-8696-d516fee3e0e9.png) </br>
 
 2. Output Screen 2 : </br>
+ ![2](https://user-images.githubusercontent.com/55443821/124425249-ed816080-dd85-11eb-809b-59536f6330c4.png)
 
 
 
