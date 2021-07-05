@@ -10,5 +10,7 @@ Here the user gets an option to choose either of the format to export: </br>
 1) jpeg </br>
 2) Bmp </br>
 3) Gif </br>
+
+
 Again, we need to choose the format and preferred location and click ok. </br>
 The image gets downloaded in the file system. </br>
