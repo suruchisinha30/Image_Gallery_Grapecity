@@ -34,7 +34,11 @@ The image gets downloaded in the file system. </br>
 
 4. Exporting to PDF : </br>
 
+![4](https://user-images.githubusercontent.com/55443821/124425286-f70ac880-dd85-11eb-8870-de8daf6a15d1.png) </br>
 
 
 5. Exporting to jpeg / Bmp / Gif : </br>
+
+
+
 
